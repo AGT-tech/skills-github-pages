@@ -4,7 +4,7 @@ title: Welcome to my blog
 
 #  My Blog is fire
 
-So often I thought about what a blog is. Years has passed since I heard of the word and read blogs writen by others. Today, by chance I am lead to create one for this specific project and rather than putting it away I have taken the challenge. I know writing is not my strogest suit yet when chances like this appear out of nowhere what can am I supposed do? 
+So often I thought about what a blog is. Years has passed since I heard of the word and read blogs written by others. Today, by chance I am lead to create one for this specific project and rather than putting it away I have taken the challenge. I know writing is not my strogest suit yet when chances like this appear out of nowhere what can am I supposed do? 
 
 For today, I decided to refelect on the idea that Github gives me the sense of moving into a new house. It is a new place that I have to get to know all the turns that lead to the front door. The people that live around the house. 
 
